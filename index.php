@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PatternFly</title>
+    <title>Basic - PatternFly v2</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -44,7 +44,7 @@
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-utility">
           <li>
-            <a href="#">Status</a>
+            <a href="#">Status v2</a>
           </li>
         </ul>
         <ul class="nav navbar-nav navbar-primary">
